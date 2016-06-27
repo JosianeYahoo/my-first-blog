@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# comentei aqui pra commitar
 import os
 import sys
 
